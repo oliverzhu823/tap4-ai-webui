@@ -11,8 +11,8 @@
     "menu": "菜单"
   },
   "Footer": {
-    "title": "开源Tap4 AI工具目录",
-    "subTitle": "发现2024年最佳AI工具，尽在Tap4 AI工具目录！",
+    "title": "AI Tools Any AI工具目录",
+    "subTitle": "探索2024年最适合你的AI工具！",
     "support": "支持",
     "tap4": "Tap4 AI",
     "tattoo": "AI纹身生成器",
@@ -118,12 +118,12 @@
     "goHome": "回到首页"
   },
   "Home": {
-    "title": "Tap4 AI - 探索最佳AI工具 2024",
-    "subTitle": "在Tap4 AI工具目录中获取您喜欢的AI工具。AI工具列表由GPT-4o每天更新。现在免费提交以增强您的SEO。",
+    "title": "AI Tools Any - 探索2024最佳AI工具",
+    "subTitle": "在AI Tools Any工具目录中搜索喜欢的AI工具。",
     "ai-navigate": "AI工具列表",
     "exploreMore": "获取更多AI工具",
     "checkDetail": "查看详情",
-    "search": "搜索",
+    "search": "搜索，例如：写作工具",
     "result": "搜索结果",
     "empty": "无数据"
   },
