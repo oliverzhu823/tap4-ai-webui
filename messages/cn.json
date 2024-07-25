@@ -3,11 +3,11 @@
     "loading": "加载中..."
   },
   "Navigation": {
-    "title": "开源Tap4 AI工具目录",
-    "discover": "发现AI",
+    "title": "AI工具目录大全",
+    "discover": "探索最佳AI工具",
     "submit": "提交",
-    "newtools": "新工具",
-    "startup": "创业公司",
+    "newtools": "新AI工具",
+    "startup": "项目启动",
     "menu": "菜单"
   },
   "Footer": {
