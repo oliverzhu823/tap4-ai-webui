@@ -55,7 +55,7 @@
     },
     "8": {
       "question": "故障排除",
-      "answer": "如果内容没有出现，请尝试使用其他浏览器，清除缓存。如果问题仍然存在，请联系我们：contact@6677.ai。"
+      "answer": "如果内容没有出现，请尝试使用其他浏览器，清除缓存。如果问题仍然存在，请联系我们：oliver@aitoolany.com。"
     },
     "9": {
       "question": "AI Tools Any目录的内容是如何生成的？",
@@ -64,10 +64,6 @@
     "10": {
       "question": "AI工具的使用权是什么？",
       "answer": "AI Tools Any工具目录只是AI工具的目录。AI工具的使用权基于AI工具的网站。"
-    },
-    "11": {
-      "question": "AI Tools Any目录的Web UI是开源的吗？",
-      "answer": "是的，我们将在GitHub（https://github.com/6677-ai/tap4-ai-webui）上开源AI Tools Any目录的Web UI。请给我们点星。"
     }
   },
   "FooterNavigation": {
@@ -109,7 +105,7 @@
       "6-h2": "5. 条款更改",
       "6-p": "AI Tools Any目录保留在我们全权酌情决定下随时修改或替换这些条款的权利。我们将通过电子邮件通知用户任何更改。在这些条款更改后，您继续使用本网站将构成您接受这些更改。",
       "7-h2": "6. 联系信息",
-      "7-p": "如果您对这些条款有任何疑问，请联系我们：contact@6677.ai。",
+      "7-p": "如果您对这些条款有任何疑问，请联系我们：oliver@aitoolany.com。",
       "last-p": "使用AI Tools Any目录即表示您接受这些服务条款。"
     }
   },
