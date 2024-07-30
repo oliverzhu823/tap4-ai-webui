@@ -1,91 +1,87 @@
 {
   "Common": {
-    "loading": "loading..."
+    "loading": "Loading..."
   },
   "Navigation": {
-    "title": "Open-source Tap4 AI Tools Directory",
-    "discover": "Discover AI",
+    "title": "AI Tools Any - AI Tool Directory",
+    "discover": "Explore the Best AI Tools",
     "submit": "Submit",
-    "newtools": "New Tools",
-    "startup": "Startup",
-    "menu": "menu"
+    "newtools": "New AI Tools",
+    "startup": "Project Launch",
+    "menu": "Menu"
   },
   "Footer": {
-    "title": "Open-source Tap4 AI Tools Directory",
-    "subTitle": "Discover the best AI tools of 2024 with the Tap4 AI Tools Directory!",
+    "title": "AI Tools Any - AI Tool Directory",
+    "subTitle": "Explore the AI tools best suited for you in 2024!",
     "support": "Support",
-    "tap4": "Tap4 AI",
+    "tap4": "AI Tools Any ",
     "tattoo": "AI Tattoo Generator",
-    "privacy": "Privacy policy",
-    "termsConditions": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "termsConditions": "Terms and Conditions",
     "contactUs": "Contact Us"
   },
   "Faq": {
     "title": "Frequently Asked Questions",
     "1": {
-      "question": "What is Open-source Tap4 AI Tools Directory?",
-      "answer": "Tap4 AI Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
+      "question": "What is the AI Tools Any Directory?",
+      "answer": "AItoolsAny.com provides you with a comprehensive AI tool directory, bringing together various artificial intelligence applications to meet your needs in writing, marketing, SEO, learning, research, art creation, music production, video editing, programming development, and image processing. We have carefully selected and categorized numerous AI tools, allowing you to easily find and use the most suitable intelligent assistants. Whether you're a professional or an AI enthusiast, AItoolsAny.com can help you unlock the unlimited potential of artificial intelligence, improve work efficiency, and inspire creativity. Visit our website now to explore the cutting edge of AI technology, experience intelligent work and lifestyle, and let AItoolsAny.com become your gateway to the AI world."
     },
     "2": {
-      "question": "How to found your ai tools in tap4 ai tools directory?",
-      "answer-1": "1. Open tap4.ai.",
-      "answer-2": "2. Explore the ai tools in the tap4 ai tools directory.",
-      "answer-3": "3. Click the ai tools that you need to get the detail and visit it."
+      "question": "Explore AI Tools Any: Discover Your Ideal Artificial Intelligence Tools",
+      "answer-1": "1. Visit AItoolsAny.com - your one-stop AI tool resource center",
+      "answer-2": "2. Dive into the AItoolsAny tool directory, covering various categories and functions.",
+      "answer-3": "3. After finding a tool of interest, click to enter the details page, learn more information, and directly access the tool."
     },
     "3": {
-      "question": "What are the main features of Tap4 AI Tools Directory?",
-      "answer-1": "1. Free AI Tools Directory: It's free to found your favorite AI Tools here.",
-      "answer-2": "2. Startup List: The free startup list for ai tools developers."
+      "question": "What are the main features of the AI Tools Any Directory?",
+      "answer-1": "1. Free AI Tool Directory: Finding your favorite AI tools here is free.",
+      "answer-2": "2. Project Launch List: Free startup list for AI tool developers to use."
     },
     "4": {
-      "question": "Is it free to submit ai tools to Tap4 AI Tools Directory?",
-      "answer": "Yes, it's free currently. But you should share the backlink for Tap4 AI Tools Directory!"
+      "question": "Is it free to submit AI tools to the AI Tools Any Directory?",
+      "answer": "Yes, it's currently free. But you should share a backlink to the AI Tools Any Directory!"
     },
     "5": {
-      "question": "What's the categories list of AI Tools that Tap4 AI Tools Directory support?",
-      "answer": "We will support all kinds of AI Tools later. Please wait for a few days."
+      "question": "What AI tool categories does the AI Tools Any Directory support?",
+      "answer": "We will support all types of AI tools later. Please wait a few days."
     },
     "6": {
-      "question": "What's the frequency for the up of AI tools in Tap4 AI Directory?",
-      "answer": "The list of AI tools will be updated daily."
+      "question": "How often are AI tools updated in the AI Tools Any Directory?",
+      "answer": "The AI tool list will be updated daily."
     },
     "7": {
-      "question": "Is it support GPT-4o or Sora AI here?",
-      "answer": "You can get the GPT-4o or Sora AI tool here. Here is the introduction of GPT-4o and Sora video, and you can visit the website of the tools."
+      "question": "Is GPT-4o or Sora AI supported here?",
+      "answer": "You can get GPT-4o or Sora AI tools here. There's an introduction to GPT-4o and Sora videos, you can visit the tool's website."
     },
     "8": {
       "question": "Troubleshooting",
-      "answer": "If the content aren't appearing, try a different browser, clear your cache. If issues persist, contact us at contact@6677.ai."
+      "answer": "If content doesn't appear, try using a different browser, clear the cache. If the problem persists, please contact us: oliver@aitoolany.com."
     },
     "9": {
-      "question": "How does the content of Tap4 AI Directory get generated?",
-      "answer": "The content of the description of the ai tools is generated by GPT-4o from OpenAI."
+      "question": "How is the content in the AI Tools Any Directory generated?",
+      "answer": "The descriptive content of AI tools is generated by OpenAI's GPT-4o."
     },
     "10": {
-      "question": "What are the usage rights of the AI tools?",
-      "answer": "Tap4 AI Tools Directory is just the AI Directory for AI tools. The usage rights of the AI tools are based on the AI tools' website."
-    },
-    "11": {
-      "question": "Does the webui of Tap4 AI Directory is open source?",
-      "answer": "Yes, we will open source the webui of Tap4 AI Directory in the github(https://github.com/6677-ai/tap4-ai-webui). Please star us."
+      "question": "What are the usage rights for AI tools?",
+      "answer": "The AI Tools Any Directory is just a directory of AI tools. The usage rights of AI tools are based on the AI tool's website."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Privacy Policy for Open-source Tap4 AI Tools Directory",
-      "1-p": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+      "1-h1": "AI Tools Any Directory Privacy Policy",
+      "1-p": "This page is used to inform visitors regarding the policies on the collection, use, and disclosure of Personal Information if anyone decides to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
       "2-h2": "1. Information Collection and Use",
       "2-p": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
       "3-h2": "2. Log Data",
-      "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these "cookies" explicitly. However, the app may use third-party code and libraries that use "cookies" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
       "5-h2": "4. Service Providers",
       "5-p-1": "I may employ third-party companies and individuals due to the following reasons:",
       "5-li-1": "To facilitate our Service;",
       "5-li-2": "To provide the Service on our behalf;",
-      "5-li-3": "To perform Service-related services;",
-      "5-li-4": "To assist us in analyzing how our Service is used;",
+      "5-li-3": "To perform Service-related services; or",
+      "5-li-4": "To assist us in analyzing how our Service is used.",
       "5-p-2": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
       "6-h2": "5. Security",
       "6-p": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
@@ -95,57 +91,57 @@
       "8-p": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
     },
     "termsConditions": {
-      "1-h1": "Terms of Service for Tap4 AI Directory",
-      "1-p": "Welcome to Tap4 AI Directory! Our website, located at https://tap4.ai (\"Website\"), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+      "1-h1": "AI Tools Any Directory Terms of Service",
+      "1-p": "Welcome to AI Tools Any Directory! Our website is located at https://AItoolsAny.com ("Website") and is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of the terms, then you may not access the Website.",
       "2-h2": "1. Use License",
-      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any right to copy, modify, or distribute the content of the Website or to use it for commercial purposes without our prior written consent.",
       "3-h2": "2. Ownership",
-      "3-p": "The ownership of images generated from text on the Website belongs to the person who created the image. Tap4.ai claims no ownership over images created by users.",
+      "3-p": "Ownership of images generated from text on the website belongs to the person who created the image. AItoolsAny.com does not claim ownership of images created by users.",
       "4-h2": "3. User Data Collection",
-      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
-      "terms-of-service": "terms-of-service",
+      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (website cookies) to improve our services. Use of this data is subject to our Privacy Policy, which can be found at",
+      "terms-of-service": "Terms of Service",
       "5-h2": "4. Governing Law",
-      "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+      "5-p": "These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.",
       "6-h2": "5. Changes to Terms",
-      "6-p": "Tap4 AI Directory reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+      "6-p": "AI Tools Any Directory reserves the right to modify or replace these Terms at any time at our sole discretion. We will notify users of any changes by email. Your continued use of this Website after any changes to these Terms will constitute your acceptance of such changes.",
       "7-h2": "6. Contact Information",
-      "7-p": "If you have any questions about these Terms, please contact us at contact@6677.ai.",
-      "last-p": "By using Tap4 AI Directory, you signify your acceptance of these Terms of Service."
+      "7-p": "If you have any questions about these Terms, please contact us at: oliver@aitoolany.com.",
+      "last-p": "By using AI Tools Any Directory, you accept these Terms of Service."
     }
   },
   "NotFound": {
     "title": "404 Not Found",
-    "goHome": "go home"
+    "goHome": "Return to Homepage"
   },
   "Home": {
-    "title": "Discover The Best AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in Open-source Tap4 AI Tools Directory. AI tools list are updated daily by GPT-4o. It's free to submit here to enhance your SEO now. ",
-    "ai-navigate": "AI Tools List",
+    "title": "AI Tools Any - Explore the Best AI Tools of 2024",
+    "subTitle": "Search for your favorite AI tools in the AI Tools Any Directory.",
+    "ai-navigate": "AI Tool List",
     "exploreMore": "Get More AI Tools",
-    "checkDetail": "View Detail",
-    "search": "Search",
-    "result": "Search Result",
-    "empty": "No data available"
+    "checkDetail": "Check Details",
+    "search": "Search, e.g.: Writing Tools",
+    "result": "Search Results",
+    "empty": "No Data"
   },
   "Category": {
-    "home": "home",
-    "empty": "No data available"
+    "home": "Home",
+    "empty": "No Data"
   },
   "Submit": {
-    "title": "Submit your AI Tool",
-    "subTitle": "Submit your AI Tool and Get traffic from Tap4 AI Directory",
+    "title": "Submit Your AI Tool",
+    "subTitle": "Submit your AI tool and get traffic from the AI Tools Any Directory",
     "website": "Website Name",
     "url": "Website URL",
     "submit": "Submit",
     "add": "Add",
-    "text": "to your website homepage, And then you can submit your website successfully for free！",
+    "text": "to your website homepage, then you can successfully submit your website for free!",
     "networkError": "Network Error",
-    "success": "success"
+    "success": "Success"
   },
   "Startup": {
-    "title": "Kickstart Your Startup Launch",
-    "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: contact@tap4.ai. ",
-    "updateTime": "Curated and updated daily. Last updated:",
+    "title": "Launch Your Startup",
+    "subTitle": "The ultimate list for launching and promoting your startup website. To add to the list or help submit your product to free listings, please email: contact@AItoolsAny.com.",
+    "updateTime": "Curated and updated daily. Last updated: ",
     "table": {
       "da": "DA",
       "website": "Website",
@@ -159,27 +155,27 @@
     }
   },
   "Explore": {
-    "title": "Discover The Best AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in Tap4 AI Tools Directory. AI tools list are updated daily by GPT-4o."
+    "title": "Discover the Best AI Tools of 2024",
+    "subTitle": "Find your favorite AI tools in the AI Tools Any Directory. The AI tool list is updated daily by GPT-4o."
   },
   "Metadata": {
     "home": {
-      "title": "Get your best AI Tools | Open-source Tap4 AI Tools Directory",
-      "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
-      "keywords": "Tap4 AI Directory"
+      "title": "Get Your Best AI Tools | AI Tools Any Directory",
+      "description": "AI Tools Any Directory is a tool that provides a free AI tool directory. Get your favorite AI tools through the AI Tools Any Directory, which aims to collect all AI tools and provide the best service to users.",
+      "keywords": "AI Tools Any Directory"
     },
     "ai": {
-      "titleSubfix": "Tap4 AI Directory"
+      "titleSubfix": "AI Tools Any Directory"
     },
     "explore": {
-      "title": "Best AI Tools Explore 2024 | Open-source Tap4 AI Tools Directory",
-      "titlePrefix": "Tap4 AI Directory Explore",
-      "titleSuffix": "Tap4 AI Directory",
-      "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
-      "keywords": "Tap4 AI Directory"
+      "title": "Explore the Best AI Tools of 2024 | AI Tools Any Directory",
+      "titlePrefix": "AI Tools Any Directory Explore",
+      "titleSuffix": "AI Tools Any Directory",
+      "description": "AI Tools Any Directory is a tool that provides a free AI tool directory. Get your favorite AI tools through the AI Tools Any Directory, which aims to collect all AI tools and provide the best service to users.",
+      "keywords": "AI Tools Any Directory"
     },
     "submit": {
-      "title": "Submit your AI tool and get Get Traffic | Tap4 AI Directory"
+      "title": "Submit Your AI Tool and Get Traffic | AI Tools Any Directory"
     }
   }
 }
